@@ -1,0 +1,6 @@
+{
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
+
+// sai khiến cho vscode sau khi save code thì nmos sẽ đọc prettierrc để format lại code 
